@@ -1,6 +1,5 @@
 {
-"sites": [
-  
+"sites": [  
 {"key":"csp_CZSPP","name":"天亮讲晚安的杰作~（反馈：qq1541373771）：","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀推荐1","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎推荐2","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
