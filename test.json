@@ -1,13 +1,14 @@
 {
   "sites": [
     {
-      "key": "csp_Czsapp",
+      "key": "csp_xbb_影视工厂",
       "name": "天亮讲晚安的杰作~（反馈：qq1541373771更新时间：23.2.4）",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_XBiubiu",
+      "playUrl": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/影视工厂.json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     }
   ],
   "lives": [
@@ -28,6 +29,46 @@
       "name": "解析聚合",
       "type": 3,
       "url": "Demo"
+    },
+    {
+      "name": "Json并发",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "keyu",
+      "type": 0,
+      "url": "http://newjiexi.gotka.top/keyu3.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
     }
   ],
   "flags": [
