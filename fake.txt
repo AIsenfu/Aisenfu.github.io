@@ -1,1 +1,5 @@
+以下分别导入两次订阅地址
+第一次
 https://ghproxy.com/https://raw.githubusercontent.com/AIsenfu/Aisenfu.github.io/main/line.json
+第二次
+https://github.com/AIsenfu/Aisenfu.github.io/blob/main/line2.txt
