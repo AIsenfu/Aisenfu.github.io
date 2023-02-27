@@ -1,5 +1,5 @@
 以下分别导入两次订阅地址
 第一次
 https://ghproxy.com/https://raw.githubusercontent.com/AIsenfu/Aisenfu.github.io/main/line1.json
-第二次
+第二次（目前不用导入，导入了也没效果）
 https://ghproxy.com/https://raw.githubusercontent.com/AIsenfu/Aisenfu.github.io/main/line2.txt
