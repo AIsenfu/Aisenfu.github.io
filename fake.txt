@@ -1,7 +1,7 @@
 以下分别导入以下订阅地址
-第一次（手动挑选，速度有保证）
+一（手动挑选更新间隔长，时效有保证）
 https://ghproxy.com/https://raw.githubusercontent.com/AIsenfu/Aisenfu.github.io/main/line1.json
-第二次（嘎嘎快，容易失效）
+二（嘎嘎快，容易失效）
 https://ghproxy.com/https://raw.githubusercontent.com/AIsenfu/Aisenfu.github.io/main/line2.txt
-第三次（自动更新，大概2天一次）
+三（自动更新，大概2天一次，肥肠容易失效，速度嘎嘎慢）
 http://free.bcoderss.com/
