@@ -1,5 +1,7 @@
-以下分别导入两次订阅地址
-第一次
+以下分别导入以下订阅地址
+第一次（手动挑选，速度有保证）
 https://ghproxy.com/https://raw.githubusercontent.com/AIsenfu/Aisenfu.github.io/main/line1.json
-第二次
+第二次（嘎嘎快，容易失效）
 https://ghproxy.com/https://raw.githubusercontent.com/AIsenfu/Aisenfu.github.io/main/line2.txt
+第三次（自动更新，大概2天一次）
+http://free.bcoderss.com/
